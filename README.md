@@ -29,6 +29,7 @@ Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV
 [BurningDownTheHouse](https://github.com/LeonBlade/BurningDownTheHouse)|A tool for FFXIV to manipulate housing items
+[CMTool](https://github.com/imchillin/CMTool)|Client modding tool
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker
 [FFXIV Explorer](https://github.com/goaaats/ffxiv-explorer-fork)|Modernized fork of FFXIV Explorer with added usability features
