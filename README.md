@@ -57,6 +57,7 @@ Name|Description
 Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
+[VisibilityPlugin](https://github.com/SheepGoMeh/VisibilityPlugin)|Dalamud plugin to allow for quality of life changes for player and pet visibility.
 
 ## Other Software
 Name|Description
