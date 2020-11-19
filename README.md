@@ -4,6 +4,7 @@ A list of websites (not Discord servers), APIs, and tools for FFXIV. PRs welcome
 ## Websites
 Name|Description
 ---|---
+[Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
 [eorzea-weather](https://github.com/eorzea-weather/eorzea-weather-app)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|ERIONES XIV English is a comprehensive support site capture information production and synthesis recipes, items, Materia, the information collected in the center of Crafter (XIV), a Gatherer online game FINAL FANTASY XIV.
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|A raid macro editor.
