@@ -9,12 +9,13 @@ Name|Description
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
 [eorzea-weather](https://github.com/eorzea-weather/eorzea-weather-app)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|ERIONES XIV English is a comprehensive support site capture information production and synthesis recipes, items, Materia, the information collected in the center of Crafter (XIV), a Gatherer online game FINAL FANTASY XIV.
+[exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|A raid macro editor.
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
-[FFXIV RealTime Server Status](https://fx.fo/)|(No description)
+[FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor
 [FFXIV Skywatcher+](https://skywatcher.plus/)|FFXIV - Weather forecast for Hydaelyn
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
@@ -22,10 +23,10 @@ Name|Description
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
 [Horus's FFXIV Hunt Tracker](https://horus-hunts.net/)|A Final Fantasy XIV hunt tracker that aims to provide all the information required for the hunt in one place.
-[Is FFXIV Up](https://is.xivup.com/)|(No description)
+[Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
-[XIVStatus](https://xivstatus.com/)|(No description)
+[XIVStatus](https://xivstatus.com/)|FFXIV server status monitor
 
 ## Web APIs
 Name|Description
