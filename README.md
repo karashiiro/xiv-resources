@@ -22,3 +22,8 @@ Name|Description
 Name|Description
 ---|---
 [Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
+
+## Other Software
+Name|Description
+---|---
+[Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++
