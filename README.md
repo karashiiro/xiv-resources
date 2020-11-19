@@ -5,6 +5,7 @@ A list of websites and tools for FFXIV.
 Name|Description
 ---|---
 [Eriones](https://en.eriones.com/)|ERIONES XIV English is a comprehensive support site capture information production and synthesis recipes, items, Materia, the information collected in the center of Crafter (XIV), a Gatherer online game FINAL FANTASY XIV.
+[exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|A raid macro editor.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
 
