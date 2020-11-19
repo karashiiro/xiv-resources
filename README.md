@@ -1,5 +1,5 @@
 # xiv-resources
-A list of websites and tools for FFXIV. PRs welcome.
+A list of websites (not Discord servers) and tools for FFXIV. PRs welcome.
 
 ## Websites
 Name|Description
