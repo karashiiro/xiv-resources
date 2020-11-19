@@ -35,12 +35,13 @@ Name|Description
 [ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|Advanced Combat Tracker の FFXIV向けプラグインです。トリガ、TTSの拡張、HUDの拡張など。
 [OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
 
-## OverlayPlugin Overlays
+## ACT OverlayPlugin Overlays
 Name|Description
 ---|---
 [ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin)
 [ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on of [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin) which shows ping status for connected server.
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay
+[ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay
 
 ## Other Software
 Name|Description
