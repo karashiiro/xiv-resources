@@ -16,6 +16,7 @@ Name|Description
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
+[Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
 
