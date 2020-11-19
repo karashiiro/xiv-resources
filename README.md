@@ -6,7 +6,7 @@ Name|Description
 ---|---
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 
-## APIs
+## Web APIs
 Name|Description
 ---|---
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
@@ -16,3 +16,8 @@ Name|Description
 Name|Description
 ---|---
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
+
+## Client APIs
+Name|Description
+---|---
+[Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
