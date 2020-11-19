@@ -20,6 +20,7 @@ Name|Description
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
+[Horus's FFXIV Hunt Tracker](https://horus-hunts.net/)|A Final Fantasy XIV hunt tracker that aims to provide all the information required for the hunt in one place.
 [Is FFXIV Up](https://is.xivup.com/)|(No description)
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
