@@ -5,6 +5,7 @@ A list of websites and tools for FFXIV.
 Name|Description
 ---|---
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
+[xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
 
 ## Web APIs
 Name|Description
