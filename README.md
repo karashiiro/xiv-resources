@@ -56,6 +56,7 @@ Name|Description
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay
 [Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV
 [ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay
+[klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay
 
 ## Off-the-books Dalamud Plugins
 Name|Description
