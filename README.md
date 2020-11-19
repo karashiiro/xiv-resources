@@ -20,6 +20,11 @@ Name|Description
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
 
+## Client APIs
+Name|Description
+---|---
+[Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
+
 ## ACT Plugins
 Name|Description
 ---|---
@@ -32,11 +37,6 @@ Name|Description
 [ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for ngld/OverlayPlugin
 [ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on of ngld/OverlayPlugin which shows ping status for connected server.
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay
-
-## Client APIs
-Name|Description
----|---
-[Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
 
 ## Other Software
 Name|Description
