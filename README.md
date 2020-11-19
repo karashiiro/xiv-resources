@@ -1,5 +1,5 @@
 # xiv-resources
-A list of websites (not Discord servers) and tools for FFXIV. PRs welcome.
+A list of websites (not Discord servers), APIs, and tools for FFXIV. PRs welcome.
 
 ## Websites
 Name|Description
@@ -30,6 +30,7 @@ Name|Description
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
+[RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV
 
 ## Local APIs
 Name|Description
