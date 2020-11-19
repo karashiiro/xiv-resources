@@ -8,6 +8,7 @@ Name|Description
 [Eriones](https://en.eriones.com/)|ERIONES XIV English is a comprehensive support site capture information production and synthesis recipes, items, Materia, the information collected in the center of Crafter (XIV), a Gatherer online game FINAL FANTASY XIV.
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|A raid macro editor.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
+[FFXIV Skywatcher+](https://skywatcher.plus/)|FFXIV - Weather forecast for Hydaelyn
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
