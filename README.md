@@ -32,6 +32,7 @@ Name|Description
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV
 [XIVNote](https://github.com/anoyetta/XIVNote)|「14ノート」FFXIV向け付箋ツール
+[WaymarkLibrarian](https://github.com/PunishedPineapple/WaymarkLibrarian)|Tool for FFXIV to store unlimited waymark presets and swap them into and out of the game as-required.
 
 ## Local APIs
 Name|Description
