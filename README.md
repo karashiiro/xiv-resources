@@ -12,6 +12,7 @@ Name|Description
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
 [FFXIV Skywatcher+](https://skywatcher.plus/)|FFXIV - Weather forecast for Hydaelyn
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily
+[FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
