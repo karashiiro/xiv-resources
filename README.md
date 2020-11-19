@@ -45,6 +45,7 @@ Name|Description
 Name|Description
 ---|---
 [ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|Advanced Combat Tracker の FFXIV向けプラグインです。トリガ、TTSの拡張、HUDの拡張など。
+[Kapture](https://github.com/kalilistic/Kapture)|ACT FFXIV Plugin Loot Tracker.
 [OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
 
 ## ACT OverlayPlugin Overlays
