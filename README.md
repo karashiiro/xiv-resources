@@ -9,8 +9,8 @@ Name|Description
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
 [eorzea-weather](https://github.com/eorzea-weather/eorzea-weather-app)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|ERIONES XIV English is a comprehensive support site capture information production and synthesis recipes, items, Materia, the information collected in the center of Crafter (XIV), a Gatherer online game FINAL FANTASY XIV.
-[exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
-[exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|A raid macro editor.
+[exdreams](https://ffxiv.es.exdreams.net/)|Toolkit website for FFXIV
+[exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|Raid macro editor
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
