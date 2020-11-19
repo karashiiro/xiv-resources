@@ -31,6 +31,7 @@ Name|Description
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV
+[XIVNote](https://github.com/anoyetta/XIVNote)|「14ノート」FFXIV向け付箋ツール
 
 ## Local APIs
 Name|Description
