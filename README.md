@@ -34,8 +34,8 @@ Name|Description
 ## OverlayPlugin Overlays
 Name|Description
 ---|---
-[ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for ngld/OverlayPlugin
-[ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on of ngld/OverlayPlugin which shows ping status for connected server.
+[ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin)
+[ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on of [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin) which shows ping status for connected server.
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay
 
 ## Other Software
