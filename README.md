@@ -14,6 +14,7 @@ Name|Description
 ## Web APIs
 Name|Description
 ---|---
+[Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
 
