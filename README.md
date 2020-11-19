@@ -57,6 +57,7 @@ Name|Description
 [ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|FFXIV Advanced Combat Tracker plugin. Includes triggers, TTS, and HUD plugins.
 [Kapture](https://github.com/kalilistic/Kapture)|ACT FFXIV Plugin Loot Tracker.
 [OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
+[Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|Triggernometry is a plugin for Advanced Combat Tracker, intended to extend its built-in trigger system with a variety of different actions and configuration options.
 [universalis_act_plugin](https://github.com/goaaats/universalis_act_plugin)|ACT plugin to upload market board data to https://universalis.app
 
 ## ACT OverlayPlugin Overlays
