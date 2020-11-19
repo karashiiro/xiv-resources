@@ -35,6 +35,7 @@ Name|Description
 [FFXIVMon Reborn](https://github.com/SapphireServer/ffxivmon)|A FFXIV Network Analysis Tool
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
+[FFXIV TexTools](https://textools.dualwield.net/)|An application used to modify the textures and models for the game Final Fantasy XIV.
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV
 [XIVNote](https://github.com/anoyetta/XIVNote)|「14ノート」FFXIV向け付箋ツール
 [WaymarkLibrarian](https://github.com/PunishedPineapple/WaymarkLibrarian)|Tool for FFXIV to store unlimited waymark presets and swap them into and out of the game as-required.
