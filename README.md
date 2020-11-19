@@ -9,6 +9,7 @@ Name|Description
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|A raid macro editor.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily
+[Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
