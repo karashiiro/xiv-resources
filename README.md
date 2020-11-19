@@ -27,6 +27,7 @@ Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV
 [BurningDownTheHouse](https://github.com/LeonBlade/BurningDownTheHouse)|A tool for FFXIV to manipulate housing items
+[FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|https://github.com/FFXIVAPP/ffxivapp
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
