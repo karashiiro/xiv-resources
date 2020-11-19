@@ -29,6 +29,7 @@ Name|Description
 Name|Description
 ---|---
 [Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
+[FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.
 
 ## ACT Plugins
 Name|Description
