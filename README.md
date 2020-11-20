@@ -75,6 +75,7 @@ Name|Description
 ## ACT Plugins
 Name|Description
 ---|---
+[ACT.FFXIVPing](https://github.com/Noisyfox/ACT.FFXIVPing)|A simple ACT plugin displays network ping in a small overlay for FFXIV.
 [ACT.FFXIVTranslate](https://github.com/Noisyfox/ACT.FFXIVTranslate)|Translate players' chatting.
 [ACT.FoxTTS](https://github.com/Noisyfox/ACT.FoxTTS)|Add Chinese TTS (and maybe more) to ACT & TTSYukkuri
 [ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|FFXIV Advanced Combat Tracker plugin. Includes triggers, TTS, and HUD plugins.
