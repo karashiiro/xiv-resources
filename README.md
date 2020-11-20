@@ -15,6 +15,7 @@ Name|Description
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
+[FF Logs](https://www.fflogs.com/)|Combat analysis website
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor
 [FFXIV Skywatcher+](https://skywatcher.plus/)|FFXIV - Weather forecast for Hydaelyn
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily
