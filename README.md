@@ -29,6 +29,7 @@ Name|Description
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
+[XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor
 
 ## Web APIs
