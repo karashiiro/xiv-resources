@@ -88,6 +88,7 @@ Name|Description
 [Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV
 [ffxiv_act_dfassist](https://github.com/easly1989/ffxiv_act_dfassist)|Duty Finder Assist Plugin for ACT, Based on https://github.com/devunt/DFAssist
 [ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay
+[kagerou](https://github.com/hibiyasleep/kagerou)|ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date.
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay
 
 ## Off-the-books Dalamud Plugins
