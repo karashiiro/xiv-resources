@@ -1,5 +1,5 @@
 # xiv-resources
-A list of websites (not Discord servers or bots), APIs, and tools for FFXIV. PRs welcome.
+A list of websites, APIs, and tools for FFXIV. PRs welcome, but refer to the [contributing guidelines](CONTRIBUTING.md).
 
 ## Websites
 Name|Description
