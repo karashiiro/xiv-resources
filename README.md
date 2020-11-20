@@ -83,6 +83,7 @@ Name|Description
 [ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on of [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin) which shows ping status for connected server.
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay
 [Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV
+[ffxiv_act_dfassist](https://github.com/easly1989/ffxiv_act_dfassist)|Duty Finder Assist Plugin for ACT, Based on https://github.com/devunt/DFAssist
 [ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay
 
