@@ -1,4 +1,6 @@
 # Contributing
+Thank you for contributing! Here are a few guidelines to follow before you post:
+
 Just some quick NOs:
 * No Discord (or other chat) servers - There are a million of them. Likewise for forums. Websites that *have* a forum or a server associated with them are perfectly fine, as long as the website is not only a means of having people join a forum/server.
 * No chat bots - They're trivially easy to make, and there are tons of them. Exceptions might be made for bots above a certain user count; haven't decided yet.
@@ -8,3 +10,25 @@ Just some quick NOs:
 * No XIVAPI clients that are on the official website already.
 
 "Cheating" software will be added at my own discretion; what crosses that line will be decided somewhat arbitrarily.
+
+## Sorting
+Entries within each table should be alphabetized, respecting spaces but not punctuation.
+
+For example:
+
+✅ Good:
+
+Name|Description
+---|---
+ACT CPlugin|(No description)
+ACT Thing|(No description)
+ACT_APlugin|(No description)
+ACTBPlugin|(No description)
+
+❌ Bad (respect spaces!):
+Name|Description
+---|---
+ACT Thing|(No description)
+ACT_APlugin|(No description)
+ACTBPlugin|(No description)
+ACT CPlugin|(No description)
