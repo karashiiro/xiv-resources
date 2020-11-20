@@ -56,6 +56,8 @@ Name|Description
 [WaymarkLibrarian](https://github.com/PunishedPineapple/WaymarkLibrarian)|Tool for FFXIV to store unlimited waymark presets and swap them into and out of the game as-required.
 
 ## Research Tools
+Name|Description
+---|---
 [FFXIV Explorer](https://github.com/goaaats/ffxiv-explorer-fork)|Modernized fork of FFXIV Explorer with added usability features
 [FFXIVMon Reborn](https://github.com/SapphireServer/ffxivmon)|A FFXIV Network Analysis Tool
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
