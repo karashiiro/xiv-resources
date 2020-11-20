@@ -47,8 +47,6 @@ Name|Description
 [BurningDownTheHouse](https://github.com/LeonBlade/BurningDownTheHouse)|A tool for FFXIV to manipulate housing items
 [CMTool](https://github.com/imchillin/CMTool)|Client modding tool
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
-[FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker
-[FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
 [FFXIV TexTools](https://textools.dualwield.net/)|An application used to modify the textures and models for the game Final Fantasy XIV.
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV
@@ -81,6 +79,12 @@ Name|Description
 [zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream (Golang)
 
 ## ACT Plugins
+### Base Plugins
+Name|Description
+---|---
+[FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker
+[FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
+### Extension Plugins
 Name|Description
 ---|---
 [ACT.DFAssist](https://github.com/purutu/ACT.DFAssist)|DFAssist fork for ACT3
