@@ -31,6 +31,7 @@ Name|Description
 ## Web APIs
 Name|Description
 ---|---
+[CafeMaker](https://github.com/thewakingsands/cafemaker)|A XIVAPI fork optimized for CN client data and Chinese players.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
