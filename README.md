@@ -45,6 +45,7 @@ Name|Description
 [CMTool](https://github.com/imchillin/CMTool)|Client modding tool
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker
+[FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
 [FFXIV Explorer](https://github.com/goaaats/ffxiv-explorer-fork)|Modernized fork of FFXIV Explorer with added usability features
 [FFXIVMon Reborn](https://github.com/SapphireServer/ffxivmon)|A FFXIV Network Analysis Tool
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
