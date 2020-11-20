@@ -90,6 +90,7 @@ Name|Description
 ### Extension Plugins
 Name|Description
 ---|---
+[ACT-Discord-Triggers](https://github.com/Makar8000/ACT-Discord-Triggers)|An ACT plugin for routing audio to discord
 [ACT.DFAssist](https://github.com/purutu/ACT.DFAssist)|DFAssist fork for ACT3
 [ACT.FFXIVPing](https://github.com/Noisyfox/ACT.FFXIVPing)|A simple ACT plugin displays network ping in a small overlay for FFXIV.
 [ACT.FFXIVTranslate](https://github.com/Noisyfox/ACT.FFXIVTranslate)|Translate players' chatting.
