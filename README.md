@@ -122,7 +122,7 @@ Name|Description
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
 [VisibilityPlugin](https://github.com/SheepGoMeh/VisibilityPlugin)|Dalamud plugin to allow for quality of life changes for player and pet visibility.
 
-## Other Software
+## Other Tools
 Name|Description
 ---|---
 [ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)|This repository is to serve as a place to share data mining information related to Final Fantasy XIV.
