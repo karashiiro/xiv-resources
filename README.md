@@ -94,5 +94,6 @@ Name|Description
 Name|Description
 ---|---
 [ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)|This repository is to serve as a place to share data mining information related to Final Fantasy XIV.
+[ffxiv-datamining-cn](https://github.com/thewakingsands/ffxiv-datamining-cn)|SaintCoinach datamining files for FFXIV CN client since version 4.45
 [ffxiv-datamining-ko](https://github.com/Ra-Workspace/ffxiv-datamining-ko)|This repository is to serve as a place to share data mining information related to Final Fantasy XIV Korea.
 [Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++
