@@ -25,6 +25,7 @@ Name|Description
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
 [Horus's FFXIV Hunt Tracker](https://horus-hunts.net/)|A Final Fantasy XIV hunt tracker that aims to provide all the information required for the hunt in one place.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor
+[Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor
