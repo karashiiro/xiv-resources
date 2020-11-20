@@ -89,6 +89,7 @@ Name|Description
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay
 [Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV
 [ffxiv_act_dfassist](https://github.com/easly1989/ffxiv_act_dfassist)|Duty Finder Assist Plugin for ACT, Based on https://github.com/devunt/DFAssist
+[ffxiv-ember-overlay](https://github.com/GoldenChrysus/ffxiv-ember-overlay)|React + Redux overlay for the OverlayPlugin and ACTWebSocket plugins for Advanced Combat Tracker for use with Final Fantasy XIV.
 [horizoverlay](https://github.com/bsides/horizoverlay)|A simple horizontal damage meter overlay for Final Fantasy XIV.
 [ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay
 [kagerou](https://github.com/hibiyasleep/kagerou)|ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date.
