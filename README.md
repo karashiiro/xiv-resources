@@ -99,6 +99,7 @@ Name|Description
 [ffxiv-ember-overlay](https://github.com/GoldenChrysus/ffxiv-ember-overlay)|React + Redux overlay for the OverlayPlugin and ACTWebSocket plugins for Advanced Combat Tracker for use with Final Fantasy XIV.
 [horizoverlay](https://github.com/bsides/horizoverlay)|A simple horizontal damage meter overlay for Final Fantasy XIV.
 [ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay
+[kagami](https://github.com/ramram1048/kagami)|FFXIV OverlayPlugin skin for capturing used skills.
 [kagerou](https://github.com/hibiyasleep/kagerou)|ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date.
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay
 
