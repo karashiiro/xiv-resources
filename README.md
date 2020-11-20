@@ -66,6 +66,7 @@ Name|Description
 [Lumina](https://github.com/NotAdam/Lumina)|A simple, performant and extensible framework for interacting with FFXIV game data
 [Machina](https://github.com/ravahn/machina)|Network capture library for realtime TCP/IP decoding from a windows application. Includes an extension library to support FFXIV data capture. (C#)
 [SaintCoinach](https://github.com/Rogueadyn/SaintCoinach)|A .NET library written in C# for extracting game assets and reading game assets from Final Fantasy XIV: A Realm Reborn.
+[xivnet](https://github.com/ff14wed/xivnet)|A Golang parser for incoming or outgoing unencrypted FFXIV network traffic.
 [zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream (Golang)
 
 ## ACT Plugins
