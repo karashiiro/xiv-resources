@@ -100,7 +100,7 @@ Name|Description
 [Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|Triggernometry is a plugin for Advanced Combat Tracker, intended to extend its built-in trigger system with a variety of different actions and configuration options.
 [universalis_act_plugin](https://github.com/goaaats/universalis_act_plugin)|ACT plugin to upload market board data to https://universalis.app
 
-## ACT OverlayPlugin Overlays
+### OverlayPlugin Overlays
 Name|Description
 ---|---
 [ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin)
