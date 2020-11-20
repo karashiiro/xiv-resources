@@ -73,6 +73,7 @@ Name|Description
 ## ACT Plugins
 Name|Description
 ---|---
+[ACT.FoxTTS](https://github.com/Noisyfox/ACT.FoxTTS)|Add Chinese TTS (and maybe more) to ACT & TTSYukkuri
 [ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|FFXIV Advanced Combat Tracker plugin. Includes triggers, TTS, and HUD plugins.
 [Kapture](https://github.com/kalilistic/Kapture)|ACT FFXIV Plugin Loot Tracker.
 [OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
