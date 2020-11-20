@@ -60,6 +60,7 @@ Name|Description
 [eorzea-weather](https://github.com/eorzea-weather/eorzea-weather)|:partly_sunny: Weather forecast for Eorzea. (JavaScript)
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications. Also offered in [Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina) and [Python](https://github.com/karashiiro/ffxivweather-py) variants.
 [kobold](https://github.com/ackwell/kobold)|Modular SqPack reader written in TS
+[Lumina](https://github.com/NotAdam/Lumina)|A simple, performant and extensible framework for interacting with FFXIV game data
 [Machina](https://github.com/ravahn/machina)|Network capture library for realtime TCP/IP decoding from a windows application. Includes an extension library to support FFXIV data capture. (C#)
 [zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream (Golang)
 
