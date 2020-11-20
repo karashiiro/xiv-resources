@@ -98,6 +98,7 @@ Name|Description
 [Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV
 [ffxiv_act_dfassist](https://github.com/easly1989/ffxiv_act_dfassist)|Duty Finder Assist Plugin for ACT, Based on https://github.com/devunt/DFAssist
 [ffxiv-ember-overlay](https://github.com/GoldenChrysus/ffxiv-ember-overlay)|React + Redux overlay for the OverlayPlugin and ACTWebSocket plugins for Advanced Combat Tracker for use with Final Fantasy XIV.
+[ffxiv-opener-overlay](https://github.com/ChalkPE/ffxiv-opener-overlay)|ACT overlay for Final Fantasy XIV that shows your real-time skill sequences.
 [horizoverlay](https://github.com/bsides/horizoverlay)|A simple horizontal damage meter overlay for Final Fantasy XIV.
 [ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay
 [kagami](https://github.com/ramram1048/kagami)|FFXIV OverlayPlugin skin for capturing used skills.
