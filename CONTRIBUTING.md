@@ -9,6 +9,8 @@ Just some quick NOs:
 * No Dalamud plugins that are in the plugin repository already.
 * No XIVAPI clients that are on the official website already.
 
+THe exception to all of this is that I *will* accept aggregators of the above. For example, [XIV Mod Archive](https://www.xivmodarchive.com/) is linked, but specific mods are not.
+
 "Cheating" software will be added at my own discretion; what crosses that line will be decided somewhat arbitrarily.
 
 ## Sorting
