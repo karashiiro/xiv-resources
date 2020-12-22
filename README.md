@@ -30,6 +30,7 @@ Name|Description
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
 [XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki
+[XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor
 
 ## Web APIs
