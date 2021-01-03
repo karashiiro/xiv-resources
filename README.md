@@ -5,6 +5,8 @@ A list of websites, APIs, and tools for FFXIV. PRs welcome, but refer to the [co
 Name|Description
 ---|---
 [A Realm Remapped](https://arealmremapped.com/)|Collection of all maps and locations in FINAL FANTASY XIV including FATEs, Treasure maps, Vistas, Aether Currents and more!
+[AkhMorning](https://www.akhmorning.com)|Guides, news and resources for FFXIV.
+[Allagan Studies](https://www.akhmorning.com/allagan-studies/)|Theorycrafting information, formulae and tools for FFXIV.
 [Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
