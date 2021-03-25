@@ -49,6 +49,7 @@ Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV (Golang)
 [Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
+[eorzea-time](https://github.com/eorzea-weather/eorzea-time)|🕒 A clock of the Eorzea time. 
 [eorzea-weather](https://github.com/eorzea-weather/eorzea-weather)|:partly_sunny: Weather forecast for Eorzea. (JavaScript)
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications. Also offered in [Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina) and [Python](https://github.com/karashiiro/ffxivweather-py) variants.
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.
