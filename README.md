@@ -10,7 +10,7 @@ Name|Description
 [Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
-[eorzea-weather](https://github.com/eorzea-weather/eorzea-weather-app)|Weather forecast for Eorzea.
+[eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
 [exdreams](https://ffxiv.es.exdreams.net/)|Toolkit website for FFXIV
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|Raid macro editor
