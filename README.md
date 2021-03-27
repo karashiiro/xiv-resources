@@ -29,6 +29,7 @@ Name|Description
 [Horus's FFXIV Hunt Tracker](https://horus-hunts.net/)|A Final Fantasy XIV hunt tracker that aims to provide all the information required for the hunt in one place.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
+[Lodestone When](https://github.com/karashiiro/lodestone-when)|Estimate when a FFXIV character was created with just its Lodestone ID.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
