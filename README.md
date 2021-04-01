@@ -27,7 +27,8 @@ Name|Description
 [exdreams TODO](https://ffxiv.ap.exdreams.net/todo/)|Daily/Weekly activity lists.
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|Raid macro editor.
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
-[FF Logs](https://www.fflogs.com/)|Combat analysis website
+[FF Logs](https://www.fflogs.com/)|Combat analysis website.
+[FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
