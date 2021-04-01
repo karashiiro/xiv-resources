@@ -10,6 +10,7 @@ Name|Description
 [Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [Bozjan Southern Front](https://ffxiv.pf-n.co/bozja)|Interactive map for the Bozjan Southern Front.
+[Cactpot.xyz](http://cactpot.xyz/)|Mobile friendly Final Fantasy XIV Mini-Cactpot perfect solver. Maximize your cactpot winnings!
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
 [Chocobo Color](https://ffxiv.pf-n.co/chocobo-color)|Calculator for changing your chocobo's color.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
