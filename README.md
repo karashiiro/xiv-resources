@@ -9,7 +9,9 @@ Name|Description
 [Allagan Studies](https://www.akhmorning.com/allagan-studies/)|Theorycrafting information, formulae and tools for FFXIV.
 [Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
+[Bozjan Southern Front](https://ffxiv.pf-n.co/bozja)|Interactive map for the Bozjan Southern Front.
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
+[Chocobo Color](https://ffxiv.pf-n.co/chocobo-color)|Calculator for changing your chocobo's color.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
 [exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
@@ -35,14 +37,19 @@ Name|Description
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
+[High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
 [Horus's FFXIV Hunt Tracker](https://horus-hunts.net/)|A Final Fantasy XIV hunt tracker that aims to provide all the information required for the hunt in one place.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Lodestone When](https://github.com/karashiiro/lodestone-when)|Estimate when a FFXIV character was created with just its Lodestone ID.
-[Lulu's Tools](https://ffxiv.pf-n.co)|Toolkit website for for FFXIV.
+[Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
+[Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
+[Skywatcher](https://ffxiv.pf-n.co/skywatcher)|Schedule for weather in Eorzea and forecaster for upcoming weather patterns.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
+[Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|Calculator for the Wondrous Tails mini-game.
+[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
 [XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki
 [XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
