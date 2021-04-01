@@ -30,6 +30,7 @@ Name|Description
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Lodestone When](https://github.com/karashiiro/lodestone-when)|Estimate when a FFXIV character was created with just its Lodestone ID.
+[Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers
