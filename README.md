@@ -12,7 +12,7 @@ Name|Description
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
-[exdreams](https://ffxiv.es.exdreams.net/)|Toolkit website for FFXIV
+[exdreams](https://ffxiv.es.exdreams.net/)|Toolkit website for FFXIV.
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|Raid macro editor
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
 [FF Logs](https://www.fflogs.com/)|Combat analysis website
@@ -30,6 +30,7 @@ Name|Description
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Lodestone When](https://github.com/karashiiro/lodestone-when)|Estimate when a FFXIV character was created with just its Lodestone ID.
+[Lulu's Tools](https://ffxiv.pf-n.co)|Toolkit website for for FFXIV.
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
