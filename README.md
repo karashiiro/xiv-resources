@@ -12,8 +12,17 @@ Name|Description
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
-[exdreams](https://ffxiv.es.exdreams.net/)|Toolkit website for FFXIV.
-[exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|Raid macro editor
+[exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
+[exdreams Meal List](https://ffxiv.es.exdreams.net/meal_list.html)|Meal list.
+[exdreams Weather List](https://ffxiv.wl.exdreams.net/)|Weather list.
+[exdreams Gatherer Timer](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
+[exdreams Recipe Search](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
+[exdreams Crafting Simulator](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
+[exdreams Skill Simulator](https://ffxiv.ss.exdreams.net/)|Skill simulator.
+[exdreams Operation Room](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
+[exdreams Score Master](https://ffxiv.sc.exdreams.net/)|Perform practice for game tracks.
+[exdreams TODO](https://ffxiv.ap.exdreams.net/todo/)|Daily/Weekly activity lists.
+[exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|Raid macro editor.
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
 [FF Logs](https://www.fflogs.com/)|Combat analysis website
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
@@ -65,12 +74,13 @@ Name|Description
 [xivnet](https://github.com/ff14wed/xivnet)|A Golang parser for incoming or outgoing unencrypted FFXIV network traffic.
 [zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream (Golang)
 
-## Tools
+## Desktop Applications
 Name|Description
 ---|---
-[Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV
-[BurningDownTheHouse](https://github.com/LeonBlade/BurningDownTheHouse)|A tool for FFXIV to manipulate housing items
-[CMTool](https://github.com/imchillin/CMTool)|Client modding tool
+[Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV.
+[BurningDownTheHouse](https://github.com/LeonBlade/BurningDownTheHouse)|A tool for FFXIV to manipulate housing items.
+[CMTool](https://github.com/imchillin/CMTool)|Client modding tool.
+[exdreams Desktop Application](https://ffxiv.ap.exdreams.net/)|exdreams desktop application.
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker
 [FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
