@@ -13,6 +13,7 @@ Name|Description
 [Cactpot.xyz](http://cactpot.xyz/)|Mobile friendly Final Fantasy XIV Mini-Cactpot perfect solver. Maximize your cactpot winnings!
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
 [Chocobo Color](https://ffxiv.pf-n.co/chocobo-color)|Calculator for changing your chocobo's color.
+[DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
 [exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
