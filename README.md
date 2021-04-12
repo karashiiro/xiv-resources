@@ -98,6 +98,7 @@ Name|Description
 [FFXIV TexTools](https://textools.dualwield.net/)|An application used to modify the textures and models for the game Final Fantasy XIV.
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV
 [TataruHelper](https://github.com/NightlyRevenger/TataruHelper)|Application for translation of in-game texts in Japan MMORPG - Final Fantasy XIV.
+[XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency add-on for Final Fantasy XIV for Windows PC.
 [XIVNote](https://github.com/anoyetta/XIVNote)|「14ノート」FFXIV向け付箋ツール
 [WaymarkLibrarian](https://github.com/PunishedPineapple/WaymarkLibrarian)|Tool for FFXIV to store unlimited waymark presets and swap them into and out of the game as-required.
 
