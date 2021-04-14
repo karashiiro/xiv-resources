@@ -154,6 +154,7 @@ Name|Description
 Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
+[ffxiv-literal-map-link](https://github.com/Asvel/ffxiv-literal-map-link)|(Only CN tested) Dalamud plugin that turns map coordinates literal into interactable map link when you post messages. 
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 
 ## Other Tools
