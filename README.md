@@ -162,6 +162,7 @@ Name|Description
 [MapLinker](https://github.com/Bluefissure/MapLinker)|MapLinker is a dalamud plugin that can record the maplink information existing in the in-game chat, and then query or teleport to the nearest crystal.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [WaymarkPresetPlugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin)|Dalamud/XIVLauncher plugin to manage waymark presets.
+[YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
 ## Other Tools
 Name|Description
