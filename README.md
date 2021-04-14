@@ -165,6 +165,7 @@ Name|Description
 [ffxiv-startup-commands](https://github.com/saltycog/ffxiv-startup-commands)|Perform various behaviors/commands right after logging into a character.
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
+[Macrology](https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/Macrology/latest.zip)|Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits. (Direct link only)
 [MiniCactpotSolver](https://github.com/daemitus/MiniCactpotSolver)|A Dalamud plugin that highlights the best choices on your Mini Cactpot ticket.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
