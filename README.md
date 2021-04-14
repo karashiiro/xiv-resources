@@ -162,7 +162,6 @@ Name|Description
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
-[WaymarkPresetPlugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin)|Dalamud/XIVLauncher plugin to manage waymark presets.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
 ## Other Tools
