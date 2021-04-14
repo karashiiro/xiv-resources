@@ -16,17 +16,17 @@ Name|Description
 [DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
-[exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
-[exdreams Meal List](https://ffxiv.es.exdreams.net/meal_list.html)|Meal list.
-[exdreams Weather List](https://ffxiv.wl.exdreams.net/)|Weather list.
-[exdreams Gatherer Timer](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
-[exdreams Recipe Search](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
 [exdreams Crafting Simulator](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
-[exdreams Skill Simulator](https://ffxiv.ss.exdreams.net/)|Skill simulator.
+[exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
+[exdreams Gatherer Timer](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
+[exdreams Meal List](https://ffxiv.es.exdreams.net/meal_list.html)|Meal list.
 [exdreams Operation Room](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
+[exdreams Recipe Search](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
 [exdreams Score Master](https://ffxiv.sc.exdreams.net/)|Perform practice for game tracks.
-[exdreams TODO](https://ffxiv.ap.exdreams.net/todo/)|Daily/Weekly activity lists.
+[exdreams Skill Simulator](https://ffxiv.ss.exdreams.net/)|Skill simulator.
 [exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|Raid macro editor.
+[exdreams TODO](https://ffxiv.ap.exdreams.net/todo/)|Daily/Weekly activity lists.
+[exdreams Weather List](https://ffxiv.wl.exdreams.net/)|Weather list.
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
 [FF Logs](https://www.fflogs.com/)|Combat analysis website.
 [FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
