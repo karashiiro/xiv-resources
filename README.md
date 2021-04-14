@@ -36,6 +36,7 @@ Name|Description
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor
 [FFXIV Skywatcher+](https://skywatcher.plus/)|FFXIV - Weather forecast for Hydaelyn
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily
+[ffxiv-weather-bell](https://github.com/Asvel/ffxiv-weather-bell)|(CN) Weather forecast for Final Fantasy XIV.
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
