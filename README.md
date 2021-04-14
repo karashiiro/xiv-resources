@@ -157,11 +157,14 @@ Name|Description
 Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
+[FauxHollowsSolver](https://github.com/daemitus/FauxHollowsSolver)|A Dalamud plugin that highlights the best choices on your Faux Hollows attempt.
 [ffxiv-literal-map-link](https://github.com/Asvel/ffxiv-literal-map-link)|(Only CN tested) Dalamud plugin that turns map coordinates literal into interactable map link when you post messages.
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
+[MiniCactpotSolver](https://github.com/daemitus/MiniCactpotSolver)|A Dalamud plugin that highlights the best choices on your Mini Cactpot ticket.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
+[WondrousTailsSolver](https://github.com/daemitus/WondrousTailsSolver)|A Dalamud plugin that adds row probabilities to the Wondrous Tails display.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
 ## Other Tools
