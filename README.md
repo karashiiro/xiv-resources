@@ -167,6 +167,7 @@ Name|Description
 [MiniCactpotSolver](https://github.com/daemitus/MiniCactpotSolver)|A Dalamud plugin that highlights the best choices on your Mini Cactpot ticket.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
+[Weatherman](https://github.com/Eternita-S/Weatherman)|Weatherman allows you to take precise control over weather and time flow in FFXIV.
 [WondrousTailsSolver](https://github.com/daemitus/WondrousTailsSolver)|A Dalamud plugin that adds row probabilities to the Wondrous Tails display.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
