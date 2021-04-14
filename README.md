@@ -159,7 +159,6 @@ Name|Description
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
 [Cammy](https://github.com/UnknownX7/Cammy)|A simple camera editor to change various game defaults such as zoom and fov.
 [DalamudPython](https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/DalamudPython/latest.zip)|Allows you to use Dalamud via Python in the chat box. Supports one-liners, printing results to chat, or making full scripts over multiple commands. (Direct link only)
-[EngageTimer](https://github.com/xorus/EngageTimer)|StopWatch/countdown plugin for Dalamud
 [FauxHollowsSolver](https://github.com/daemitus/FauxHollowsSolver)|A Dalamud plugin that highlights the best choices on your Faux Hollows attempt.
 [FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window!
 [FPSLimiter](https://github.com/maributt/FPSLimiter)|A Dalamud plugin to manage your FPS cap with a command.
