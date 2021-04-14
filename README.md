@@ -160,7 +160,6 @@ Name|Description
 [ffxiv-literal-map-link](https://github.com/Asvel/ffxiv-literal-map-link)|(Only CN tested) Dalamud plugin that turns map coordinates literal into interactable map link when you post messages.
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
-[MapLinker](https://github.com/Bluefissure/MapLinker)|MapLinker is a dalamud plugin that can record the maplink information existing in the in-game chat, and then query or teleport to the nearest crystal.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
 [WaymarkPresetPlugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin)|Dalamud/XIVLauncher plugin to manage waymark presets.
