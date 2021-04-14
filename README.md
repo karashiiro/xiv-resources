@@ -130,8 +130,9 @@ Name|Description
 [ACT.FoxTTS](https://github.com/Noisyfox/ACT.FoxTTS)|Add Chinese TTS (and maybe more) to ACT & TTSYukkuri
 [ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|FFXIV Advanced Combat Tracker plugin. Includes triggers, TTS, and HUD plugins.
 [Kapture](https://github.com/kalilistic/Kapture)|ACT FFXIV Plugin Loot Tracker.
-[OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
 [Matcha](https://github.com/thewakingsands/matcha)|Matcha (抹茶) is an ACT plugin that provides notifications for in-game events.
+[OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
+[Paisley Park](https://github.com/LeonBlade/PaisleyPark)|A waymark preset tool for FFXIV.
 [SkillDisplay](https://github.com/rawrington/SkillDisplay)|A simple no-frills ACTWebSocket overlay for showing actions pressed in an overlay window.
 [Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|Triggernometry is a plugin for Advanced Combat Tracker, intended to extend its built-in trigger system with a variety of different actions and configuration options.
 [universalis_act_plugin](https://github.com/goaaats/universalis_act_plugin)|ACT plugin to upload market board data to https://universalis.app
