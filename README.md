@@ -101,6 +101,7 @@ Name|Description
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV
 [TataruHelper](https://github.com/NightlyRevenger/TataruHelper)|Application for translation of in-game texts in Japan MMORPG - Final Fantasy XIV.
 [XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency add-on for Final Fantasy XIV for Windows PC.
+[XivMitmLatencyMitigator](https://github.com/Soreepeong/XivMitmLatencyMitigator)|Double weave for everyone, including PC, Mac, and PS4 users.
 [XIVNote](https://github.com/anoyetta/XIVNote)|「14ノート」FFXIV向け付箋ツール
 [WaymarkLibrarian](https://github.com/PunishedPineapple/WaymarkLibrarian)|Tool for FFXIV to store unlimited waymark presets and swap them into and out of the game as-required.
 
