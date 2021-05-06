@@ -46,6 +46,7 @@ Name|Description
 [Horus's FFXIV Hunt Tracker](https://horus-hunts.net/)|A Final Fantasy XIV hunt tracker that aims to provide all the information required for the hunt in one place.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
+[Lodestone News](http://na.lodestonenews.com/)|Automatic Lodestone news updates for your Discord server
 [Lodestone When](https://github.com/karashiiro/lodestone-when)|Estimate when a FFXIV character was created with just its Lodestone ID.
 [Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
@@ -63,8 +64,11 @@ Name|Description
 ## Web APIs
 Name|Description
 ---|---
+[Another Triple Triad Tracker](https://github.com/mattantonelli/ffxiv-triple-triad/wiki)|REST API for Triple Triad
 [CafeMaker](https://github.com/thewakingsands/cafemaker)|A XIVAPI fork optimized for CN client data and Chinese players.
+[FFXIV Collect](https://github.com/mattantonelli/ffxiv-collect/wiki)|REST API for collections (e.g. achievements, mounts, minions)
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
+[Lodestone News](https://github.com/mattantonelli/lodestone/wiki)|REST API for Lodestone news
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
 
