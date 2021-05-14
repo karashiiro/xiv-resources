@@ -94,6 +94,7 @@ Name|Description
 Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV.
+[BardMusicPlayer](https://bardmusicplayer.com/)|Bard Music Player is an automated music player for playing MIDI songs in FFXIV using the Bard's Performance mode.
 [BurningDownTheHouse](https://github.com/LeonBlade/BurningDownTheHouse)|A tool for FFXIV to manipulate housing items.
 [CMTool](https://github.com/imchillin/CMTool)|Client modding tool.
 [exdreams Desktop Application](https://ffxiv.ap.exdreams.net/)|exdreams desktop application.
