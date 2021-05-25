@@ -12,6 +12,7 @@ Name|Description
 [Bozjan Southern Front](https://ffxiv.pf-n.co/bozja)|Interactive map for the Bozjan Southern Front.
 [Cactpot.xyz](http://cactpot.xyz/)|Mobile friendly Final Fantasy XIV Mini-Cactpot perfect solver. Maximize your cactpot winnings!
 [Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database
+[Characa](https://characa.kkimu.dev/)|**Chara**cter **ca**rd generator.
 [Chocobo Color](https://ffxiv.pf-n.co/chocobo-color)|Calculator for changing your chocobo's color.
 [DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
@@ -71,6 +72,7 @@ Name|Description
 [Lodestone News](https://github.com/mattantonelli/lodestone/wiki)|REST API for Lodestone news
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
+[XIV-Character-Cards](https://github.com/ArcaneDisgea/XIV-Character-Cards)|Character card generator.
 
 ## Local APIs
 Name|Description
