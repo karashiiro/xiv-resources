@@ -65,11 +65,11 @@ Name|Description
 ## Web APIs
 Name|Description
 ---|---
-[Another Triple Triad Tracker](https://github.com/mattantonelli/ffxiv-triple-triad/wiki)|REST API for Triple Triad
+[Another Triple Triad Tracker](https://documenter.getpostman.com/view/1779678/TzXzDHRR)|REST API for Triple Triad
 [CafeMaker](https://github.com/thewakingsands/cafemaker)|A XIVAPI fork optimized for CN client data and Chinese players.
-[FFXIV Collect](https://github.com/mattantonelli/ffxiv-collect/wiki)|REST API for collections (e.g. achievements, mounts, minions)
+[FFXIV Collect](https://documenter.getpostman.com/view/1779678/TzXzDHM1)|REST API for collections (e.g. achievements, mounts, minions)
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources
-[Lodestone News](https://github.com/mattantonelli/lodestone/wiki)|REST API for Lodestone news
+[Lodestone News](https://documenter.getpostman.com/view/1779678/TzXzDHVk)|REST API for Lodestone news
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
 [XIV-Character-Cards](https://github.com/ArcaneDisgea/XIV-Character-Cards)|Character card generator.
