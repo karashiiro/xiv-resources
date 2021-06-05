@@ -166,7 +166,7 @@ Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
 [Cammy](https://github.com/UnknownX7/Cammy)|A simple camera editor to change various game defaults such as zoom and fov.
-[DalamudPython](https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/DalamudPython/latest.zip)|Allows you to use Dalamud via Python in the chat box. Supports one-liners, printing results to chat, or making full scripts over multiple commands. (Direct link only)
+[DalamudPython](https://git.sr.ht/~jkcclemens/DalamudPython)|Allows you to use Dalamud via Python in the chat box. Supports one-liners, printing results to chat, or making full scripts over multiple commands.
 [FauxHollowsSolver](https://github.com/daemitus/FauxHollowsSolver)|A Dalamud plugin that highlights the best choices on your Faux Hollows attempt.
 [FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window!
 [FPSLimiter](https://github.com/maributt/FPSLimiter)|A Dalamud plugin to manage your FPS cap with a command.
@@ -176,10 +176,11 @@ Name|Description
 [HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)|A plugin used for FFXIVQuickLauncher to offset your character height when using certain high heel mods.
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
-[Macrology](https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/Macrology/latest.zip)|Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits. (Direct link only)
+[Macrology](https://git.sr.ht/~jkcclemens/Macrology)|Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits.
 [MiniCactpotSolver](https://github.com/daemitus/MiniCactpotSolver)|A Dalamud plugin that highlights the best choices on your Mini Cactpot ticket.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
+[The Roleplayer's Toolbox](https://git.sr.ht/~jkcclemens/RoleplayersToolbox/)|A collection of useful tools for roleplayers, such as disabling /doze snap, adding emotes to the hotbar, routing to houses, and more.
 [Weatherman](https://github.com/Eternita-S/Weatherman)|Weatherman allows you to take precise control over weather and time flow in FFXIV.
 [WondrousTailsSolver](https://github.com/daemitus/WondrousTailsSolver)|A Dalamud plugin that adds row probabilities to the Wondrous Tails display.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
