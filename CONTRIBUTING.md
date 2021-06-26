@@ -11,25 +11,3 @@ Just some quick NOs:
 The exception to all of this is that I *will* accept aggregators of the above. For example, [XIV Mod Archive](https://www.xivmodarchive.com/) is linked, but specific mods are not.
 
 "Cheating" software will be added at my own discretion; what crosses that line will be decided very arbitrarily.
-
-## Sorting
-Entries within each table should be alphabetized, respecting spaces but not punctuation.
-
-For example:
-
-✅ Good:
-
-Name|Description
----|---
-ACT CPlugin|(No description)
-ACT Thing|(No description)
-ACT_APlugin|(No description)
-ACTBPlugin|(No description)
-
-❌ Bad (respect spaces!):
-Name|Description
----|---
-ACT Thing|(No description)
-ACT_APlugin|(No description)
-ACTBPlugin|(No description)
-ACT CPlugin|(No description)
