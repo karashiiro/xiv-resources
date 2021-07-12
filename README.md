@@ -61,6 +61,7 @@ Name|Description
 [XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki
 [XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor
+[XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
 
 ## Web APIs
 Name|Description
