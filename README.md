@@ -176,12 +176,10 @@ Name|Description
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
 [Macrology](https://git.sr.ht/~jkcclemens/Macrology)|Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits.
-[MiniCactpotSolver](https://github.com/daemitus/MiniCactpotSolver)|A Dalamud plugin that highlights the best choices on your Mini Cactpot ticket.
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
 [The Roleplayer's Toolbox](https://git.sr.ht/~jkcclemens/RoleplayersToolbox/)|A collection of useful tools for roleplayers, such as disabling /doze snap, adding emotes to the hotbar, routing to houses, and more.
 [Weatherman](https://github.com/Eternita-S/Weatherman)|Weatherman allows you to take precise control over weather and time flow in FFXIV.
-[WondrousTailsSolver](https://github.com/daemitus/WondrousTailsSolver)|A Dalamud plugin that adds row probabilities to the Wondrous Tails display.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
 ## Other Tools
