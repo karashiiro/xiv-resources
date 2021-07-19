@@ -170,7 +170,6 @@ Name|Description
 [FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window.
 [FPSLimiter](https://github.com/maributt/FPSLimiter)|A Dalamud plugin to manage your FPS cap with a command.
 [ffxiv-literal-map-link](https://github.com/Asvel/ffxiv-literal-map-link)|(Only CN tested) Dalamud plugin that turns map coordinates literal into interactable map link when you post messages.
-[FFXIV_PaissaHouse](https://github.com/zhudotexe/FFXIV_PaissaHouse)|PaissaHouse is a simple plugin that runs in the background: when you view a housing ward from an aetheryte or ferry, it outputs any free houses it finds in that ward to the chat window.
 [ffxiv-startup-commands](https://github.com/saltycog/ffxiv-startup-commands)|Perform various behaviors/commands right after logging into a character.
 [HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)|A plugin used for FFXIVQuickLauncher to offset your character height when using certain high heel mods.
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
