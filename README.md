@@ -53,6 +53,8 @@ Name|Description
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
 [Skywatcher](https://ffxiv.pf-n.co/skywatcher)|Schedule for weather in Eorzea and forecaster for upcoming weather patterns.
+[Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|Strat maker for FFXIV.
+[Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|Calculator for the Wondrous Tails mini-game.
 [XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
