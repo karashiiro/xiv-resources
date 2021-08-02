@@ -177,6 +177,7 @@ Name|Description
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
 [Macrology](https://git.sr.ht/~jkcclemens/Macrology)|Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits.
+[MidiBard](https://github.com/akira0245/MidiBard)|Bard performance plugin for FFXIV. 
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
 [The Roleplayer's Toolbox](https://git.sr.ht/~jkcclemens/RoleplayersToolbox/)|A collection of useful tools for roleplayers, such as disabling /doze snap, adding emotes to the hotbar, routing to houses, and more.
