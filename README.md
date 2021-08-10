@@ -164,6 +164,8 @@ Name|Description
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay.
 
 ## Off-the-books Dalamud Plugins
+Pretty much every Dalamud plugin uses [DalamudPackager](https://github.com/goatcorp/DalamudPackager), so there is also a list of nearly every plugin in its [dependents](https://github.com/goatcorp/DalamudPackager/network/dependents). The list below contains plugins that are known to be completed.
+
 Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
