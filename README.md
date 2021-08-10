@@ -166,7 +166,7 @@ Name|Description
 ## Off-the-books Dalamud Plugins
 Pretty much every Dalamud plugin uses [DalamudPackager](https://github.com/goatcorp/DalamudPackager), so there is also a list of nearly every plugin in its [dependents](https://github.com/goatcorp/DalamudPackager/network/dependents). The list below contains plugins that are known to be completed.
 
-Be aware that Dalamud plugins that are not on the official repository may (or may not) be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
+Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
 
 Name|Description
 ---|---
