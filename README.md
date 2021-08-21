@@ -164,7 +164,7 @@ Name|Description
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay.
 
 ## Off-the-books Dalamud Plugins
-Pretty much every Dalamud plugin uses [DalamudPackager](https://github.com/goatcorp/DalamudPackager), so there is also a list of nearly every plugin in its [dependents](https://github.com/goatcorp/DalamudPackager/network/dependents). There is also a more comphensive list maintained at [neat plugins plus](https://kalilistic.github.io/neat-plugins-plus/). The list below contains plugins that are known to be completed.
+The website [neat plugins plus](https://kalilistic.github.io/neat-plugins-plus/) has a list of (probably) every single Dalamud plugin on GitHub, whether or not it is completed or functional. The list below contains plugins that are known to be completed.
 
 Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
 
