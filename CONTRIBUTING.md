@@ -5,8 +5,8 @@ Just some quick NOs:
 * No Discord (or other chat) servers - There are a million of them. Likewise for forums. Websites that *have* a forum or a server associated with them are perfectly fine, as long as the website is not only a means of having people join a forum/server.
 * No chat bots - They're easy to make, and there are tons of them.
 * No TexTools mods - See above. Exceptions might be made for UI mods.
-* No Dalamud plugins that are in the plugin repository already.
-* No XIVAPI clients that are on the official website already.
+* No Dalamud plugins that are in the main plugin repository already.
+* No XIVAPI clients that are on the GitHub organization already.
 
 The exception to all of this is that I *will* accept aggregators of the above. For example, [XIV Mod Archive](https://www.xivmodarchive.com/) is linked, but specific mods are not.
 
