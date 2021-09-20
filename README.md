@@ -34,6 +34,7 @@ Name|Description
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
+[FFXIV MarketBoard](https://www.ffxivmb.com)|Fansite for crowdsourcing MarketBoard data.
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
