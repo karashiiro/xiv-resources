@@ -25,9 +25,14 @@
           <a href="https://github.com/karashiiro/xiv-resources/blob/main/CONTRIBUTING.md">Contributions</a> are welcome.
         </p>
       </div>
+      <div class="text-center">
+        <a :href="`#${nameToId(category)}`" v-for="category in resourceCategories" class="btn btn-secondary m-1">
+          {{ category }}
+        </a>
+      </div>
       <div v-for="(collection, category) in resources">
         <hr>
-        <h3>{{ category }}</h3>
+        <h3 :id="nameToId(category)">{{ category }}</h3>
         <ul>
           <li v-for="resource in collection">
             <b><a :href="resource.url">{{ resource.name }}</a>:</b> {{ resource.description }}

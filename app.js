@@ -8,7 +8,7 @@ const app = new Vue({
     const resourceRegex = /\[(.+?)\]\((.+?)\)\|(.+)/;
 
     $.get('README.md', function (data) {
-      var categories = data.trim().replace(/[\s\S]*?##/m, '##').split(/##\s+/).slice(1);
+      var categories = data.trim().split(/##\s+/).slice(1);
 
       $.each(categories, function (_, category) {
         var categoryData = category.trim().split("\n");
@@ -22,5 +22,15 @@ const app = new Vue({
         Vue.set(app.resources, name, resourceList)
       });
     });
+  },
+  computed: {
+    resourceCategories: function() {
+      return Object.keys(this.resources);
+    }
+  },
+  methods: {
+    nameToId: function(name) {
+      return name.toLowerCase().replace(/[^a-z0-9]+/ig, '-');
+    }
   }
 });
