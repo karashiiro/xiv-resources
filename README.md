@@ -1,12 +1,20 @@
 # xiv-resources
 A list of websites, APIs, and tools for FFXIV. PRs welcome, but refer to the [contributing guidelines](CONTRIBUTING.md).
 
-## Websites
+## Information and Guides
+Name|Description
+---|---
+[AkhMorning](https://www.akhmorning.com)|Guides, news and resources for FFXIV.
+[Allagan Studies](https://www.akhmorning.com/allagan-studies/)|Theorycrafting information, formulae and tools for FFXIV.
+[FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
+[Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
+[SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
+[XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki.
+
+## Web Applications
 Name|Description
 ---|---
 [A Realm Remapped](https://arealmremapped.com/)|Collection of all maps and locations in FINAL FANTASY XIV including FATEs, Treasure maps, Vistas, Aether Currents and more.
-[AkhMorning](https://www.akhmorning.com)|Guides, news and resources for FFXIV.
-[Allagan Studies](https://www.akhmorning.com/allagan-studies/)|Theorycrafting information, formulae and tools for FFXIV.
 [Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [Bozjan Southern Front](https://ffxiv.pf-n.co/bozja)|Interactive map for the Bozjan Southern Front.
@@ -32,7 +40,6 @@ Name|Description
 [FF Logs](https://www.fflogs.com/)|Combat analysis website.
 [FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
-[FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
 [FFXIV MarketBoard](https://www.ffxivmb.com)|Fansite for crowdsourcing MarketBoard data.
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
@@ -40,7 +47,6 @@ Name|Description
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
 [ffxiv-gearing](https://asvel.github.io/ffxiv-gearing/)|(CN) Webapp for building and sharing Final Fantasy XIV gearsets.
 [ffxiv-weather-bell](https://asvel.github.io/ffxiv-weather-bell/)|(CN) Weather forecast for Final Fantasy XIV.
-[Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
 [High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
@@ -52,7 +58,6 @@ Name|Description
 [Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
-[SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
 [Skywatcher](https://ffxiv.pf-n.co/skywatcher)|Schedule for weather in Eorzea and forecaster for upcoming weather patterns.
 [Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|Strat maker for FFXIV.
 [Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
@@ -60,7 +65,6 @@ Name|Description
 [Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|Calculator for the Wondrous Tails mini-game.
 [XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
-[XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki.
 [XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
 [XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
