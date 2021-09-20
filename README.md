@@ -41,11 +41,11 @@ Name|Description
 [FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
+[ffxiv-gearing](https://asvel.github.io/ffxiv-gearing/)|(CN) Webapp for building and sharing Final Fantasy XIV gearsets.
 [FFXIV MarketBoard](https://www.ffxivmb.com)|Fansite for crowdsourcing MarketBoard data.
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
-[ffxiv-gearing](https://asvel.github.io/ffxiv-gearing/)|(CN) Webapp for building and sharing Final Fantasy XIV gearsets.
 [ffxiv-weather-bell](https://asvel.github.io/ffxiv-weather-bell/)|(CN) Weather forecast for Final Fantasy XIV.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
