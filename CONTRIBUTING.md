@@ -1,6 +1,10 @@
 # Contributing
 Thank you for contributing! Here are a few guidelines to follow before you post:
 
+Websites that fall under multiple categories may be added multiple times, such as [Universalis](https://universalis.app), which is both a website and a web API.
+
+Websites that have multiple distinct entries under a single category may have each entry added separately, such as [exdreams](https://exdreams.net/), which has a variety of distinct web applications on it.
+
 Just some quick NOs:
 * No Discord (or other chat) servers - There are a million of them. Likewise for forums. Websites that *have* a forum or a server associated with them are perfectly fine, as long as the website is not only a means of having people join a forum/server.
 * No chat bots - They're easy to make, and there are tons of them.
