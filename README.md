@@ -76,6 +76,7 @@ Name|Description
 [CafeMaker](https://github.com/thewakingsands/cafemaker)|A XIVAPI fork optimized for CN client data and Chinese players.
 [FFXIV Collect](https://documenter.getpostman.com/view/1779678/TzXzDHM1)|REST API for collections (e.g. achievements, mounts, minions).
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
+[gcf-lodestone](https://github.com/ffxiv-teamcraft/gcf-lodestone)|A set of example lodestone parsing functions ready to be deployed to GCF 
 [Lodestone News](https://documenter.getpostman.com/view/1779678/TzXzDHVk)|REST API for Lodestone news.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
