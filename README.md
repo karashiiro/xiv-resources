@@ -63,8 +63,8 @@ Name|Description
 [Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|Calculator for the Wondrous Tails mini-game.
-[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
+[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
 [XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
 [XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
