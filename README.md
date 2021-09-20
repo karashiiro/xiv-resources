@@ -6,8 +6,8 @@ Name|Description
 ---|---
 [AkhMorning](https://www.akhmorning.com)|Guides, news and resources for FFXIV.
 [Allagan Studies](https://www.akhmorning.com/allagan-studies/)|Theorycrafting information, formulae and tools for FFXIV.
-[FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|FFXIV wiki.
-[Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|FFXIV wiki.
+[FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|The Final Fantasy XIV Wiki, the comprehensive reference written and maintained by the players.
+[Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
 [XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki.
 
