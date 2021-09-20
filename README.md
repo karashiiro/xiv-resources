@@ -131,13 +131,13 @@ Name|Description
 [Godbert](https://github.com/ufx/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
 [Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++.
 
-## ACT Plugins
-### Base Plugins
+## ACT Plugins: Base
 Name|Description
 ---|---
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
 [FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
-### Extension Plugins
+
+## ACT Plugins: Extensions
 Name|Description
 ---|---
 [ACT-Discord-Triggers](https://github.com/Makar8000/ACT-Discord-Triggers)|An ACT plugin for routing audio to discord.
@@ -154,7 +154,7 @@ Name|Description
 [Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|Triggernometry is a plugin for Advanced Combat Tracker, intended to extend its built-in trigger system with a variety of different actions and configuration options.
 [universalis_act_plugin](https://github.com/goaaats/universalis_act_plugin)|ACT plugin to upload market board data to https://universalis.app
 
-### OverlayPlugin Overlays
+## ACT Plugins: Overlays
 Name|Description
 ---|---
 [ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin).
@@ -170,11 +170,7 @@ Name|Description
 [kagerou](https://github.com/hibiyasleep/kagerou)|ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date.
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay.
 
-## Off-the-books Dalamud Plugins
-The website [neat plugins plus](https://kalilistic.github.io/neat-plugins-plus/) has a list of (probably) every single Dalamud plugin on GitHub, whether or not it is completed or functional. The list below contains plugins that are known to be completed.
-
-Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
-
+## ACT Plugins: Dalamud
 Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
