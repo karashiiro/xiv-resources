@@ -18,3 +18,17 @@ The exception to all of this is that I *will* accept aggregators of the above. F
 
 ## Sorting
 Entries within each table should be alphabetized.
+
+## Formatting
+When adding a new category, it should match the following format:
+```md
+## Category Name
+
+
+This is the category description. It is optional, but must still leave two new blank lines between the name and the table data.
+
+
+Name|Description
+---|---
+[My Resource](https://example.com)|This is a description of my resource
+```
