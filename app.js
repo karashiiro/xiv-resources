@@ -22,7 +22,7 @@ const app = new Vue({
           var resources = categoryData[1];
         }
 
-        var resourceList = $.map(resources.split("\n").slice(3), function (resource) {
+        var resourceList = $.map(resources.split("\n").slice(2), function (resource) {
           var matches = resourceRegex.exec(resource);
           return { "name": matches[1], "url": matches[2], "description": matches[3] };
         });
