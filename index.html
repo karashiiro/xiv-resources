@@ -26,15 +26,20 @@
         </p>
       </div>
       <div class="text-center">
-        <a :href="`#${nameToId(category)}`" v-for="category in resourceCategories" class="btn btn-secondary m-1">
-          {{ category }}
+        <a :href="`#${nameToId(category)}`" v-for="category in resources" class="btn btn-secondary m-1">
+          {{ category.name }}
         </a>
       </div>
-      <div v-for="(collection, category) in resources">
+      <div v-for="category in resources">
         <hr>
-        <h3 :id="nameToId(category)">{{ category }}</h3>
+        <h3 :id="nameToId(category)">{{ category.name }}</h3>
+        <div v-if="category.description.length > 0" class="card">
+          <div class="card-body">
+            <p class="card-text" v-html="formatDescription(category.description)"></p>
+          </div>
+        </div>
         <ul>
-          <li v-for="resource in collection">
+          <li v-for="resource in category.resources">
             <b><a :href="resource.url">{{ resource.name }}</a>:</b> {{ resource.description }}
           </li>
         </ul>

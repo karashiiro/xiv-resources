@@ -15,3 +15,13 @@ a:hover {
 hr {
   border-color: #eee;
 }
+
+.card {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: #333;
+}
+
+.card-body {
+  background-color: rgba(0, 0, 0, 0.2);
+}
