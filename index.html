@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>XIV Resources</title>
+    <meta property="og:title" content="XIV Resources">
+
+    <meta name="description" content="A list of websites and tools for FFXIV">
+    <meta property="og:description" content="A list of websites and tools for FFXIV">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container" id="app">
+      <div class="text-center">
+        <h1>XIV Resources</h1>
+        <p>
+          A list of websites, APIs, and tools for FFXIV.
+          <a href="https://github.com/karashiiro/xiv-resources/blob/main/CONTRIBUTING.md">Contributions</a> are welcome.
+        </p>
+      </div>
+      <div class="text-center">
+        <a :href="`#${nameToId(category)}`" v-for="category in resources" class="btn btn-secondary m-1">
+          {{ category.name }}
+        </a>
+      </div>
+      <div v-for="category in resources">
+        <hr>
+        <h3 :id="nameToId(category)">{{ category.name }}</h3>
+        <div v-if="category.description.length > 0" class="card">
+          <div class="card-body">
+            <p class="card-text" v-html="formatDescription(category.description)"></p>
+          </div>
+        </div>
+        <ul>
+          <li v-for="resource in category.resources">
+            <b><a :href="resource.url">{{ resource.name }}</a>:</b> {{ resource.description }}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script src="app.js"></script>

@@ -1,0 +1,27 @@
+body {
+  background-color: #333;
+  color: #eee;
+}
+
+a {
+  color: #eee;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #fff;
+}
+
+hr {
+  border-color: #eee;
+}
+
+.card {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: #333;
+}
+
+.card-body {
+  background-color: rgba(0, 0, 0, 0.2);
+}
