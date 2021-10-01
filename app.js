@@ -4,8 +4,8 @@ const app = new Vue({
     resources: []
   },
   created: function() {
-    const self = this;
-    const resourceRegex = /\[(.+?)\]\((.+?)\)\|(.+)/;
+    var self = this;
+    var resourceRegex = /\[(.+?)\]\((.+?)\)\|(.+)/;
 
     axios.get('README.md')
       .then(function (res) {
