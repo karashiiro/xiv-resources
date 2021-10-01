@@ -4,7 +4,7 @@ var app = PetiteVue.createApp({
     var self = this;
     var resourceRegex = /\[(.+?)\]\((.+?)\)\|(.+)/;
 
-    axios.get('https://raw.githubusercontent.com/karashiiro/xiv-resources/main/README.md')
+    axios.get('README.md')
       .then(function (res) {
         var data = res.data;
 
