@@ -1,8 +1,5 @@
-var app = new Vue({
-  el: '#app',
-  data: {
-    resources: []
-  },
+var app = PetiteVue.createApp({
+  resources: [],
   created: function() {
     var self = this;
     var resourceRegex = /\[(.+?)\]\((.+?)\)\|(.+)/;
@@ -38,13 +35,12 @@ var app = new Vue({
         }
       });
   },
-  methods: {
-    formatDescription: function(description) {
-      // Replace URL markdown with proper anchor tags
-      return description.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a> ');
-    },
-    nameToId: function(category) {
-      return category.name.toLowerCase().replace(/[^a-z0-9]+/ig, '-');
-    }
+  formatDescription: function(description) {
+    // Replace URL markdown with proper anchor tags
+    return description.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a> ');
+  },
+  nameToId: function(category) {
+    return category.name.toLowerCase().replace(/[^a-z0-9]+/ig, '-');
   }
-});
+})
+.mount('#app');
