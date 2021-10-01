@@ -7,29 +7,36 @@ const app = new Vue({
     const self = this;
     const resourceRegex = /\[(.+?)\]\((.+?)\)\|(.+)/;
 
-    $.get('README.md', function (data) {
-      var categories = data.trim().split(/##\s+/).slice(1);
+    axios.get('README.md')
+      .then(function (res) {
+        var data = res.data;
 
-      $.each(categories, function (_, category) {
-        var categoryData = category.trim().split("\n\n\n");
-        var name = categoryData[0];
+        // Split the document into categories
+        var categories = data.trim().split(/##\s+/).slice(1);
 
-        if (categoryData.length === 3) {
-          var description = categoryData[1].replace(/\n/g, "<br>");
-          var resources = categoryData[2];
-        } else {
-          var description = "";
-          var resources = categoryData[1];
+        for (var i = 0; i < categories.length; i++) {
+          var category = categories[i];
+
+          var categoryData = category.trim().split("\n\n\n");
+          var name = categoryData[0];
+
+          if (categoryData.length === 3) {
+            var description = categoryData[1].replace(/\n/g, "<br>");
+            var resources = categoryData[2];
+          } else {
+            var description = "";
+            var resources = categoryData[1];
+          }
+
+          // Reshape each resource and push the resulting list back into our state
+          var resourceList = resources.split("\n").slice(2).map(function (resource) {
+            var matches = resourceRegex.exec(resource);
+            return { "name": matches[1], "url": matches[2], "description": matches[3] };
+          });
+
+          self.resources.push({ "name": name, "description": description, "resources": resourceList });
         }
-
-        var resourceList = $.map(resources.split("\n").slice(2), function (resource) {
-          var matches = resourceRegex.exec(resource);
-          return { "name": matches[1], "url": matches[2], "description": matches[3] };
-        });
-
-        self.resources.push({ "name": name, "description": description, "resources": resourceList });
       });
-    });
   },
   methods: {
     formatDescription: function(description) {
