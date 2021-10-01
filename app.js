@@ -4,7 +4,7 @@ var app = PetiteVue.createApp({
     var self = this;
     var resourceRegex = /\[(.+?)\]\((.+?)\)\|(.+)/;
 
-    axios.get('README.md')
+    axios.get('https://raw.githubusercontent.com/karashiiro/xiv-resources/main/README.md')
       .then(function (res) {
         var data = res.data;
 
@@ -33,6 +33,9 @@ var app = PetiteVue.createApp({
 
           self.resources.push({ "name": name, "description": description, "resources": resourceList });
         }
+
+        // For some reason, petite-vue reads the array in reverse - flip it
+        self.resources = self.resources.reverse();
       });
   },
   formatDescription: function(description) {
