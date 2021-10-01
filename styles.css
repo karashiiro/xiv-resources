@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
 body {
   background-color: #333;
   color: #eee;
+  font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -9,7 +12,8 @@ a {
 }
 
 a:hover {
-  color: #fff;
+  color: #0cf;
+  transition: 200ms ease-in-out;
 }
 
 hr {
