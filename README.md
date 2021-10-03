@@ -8,6 +8,7 @@ Name|Description
 ---|---
 [AkhMorning](https://www.akhmorning.com)|Guides, news and resources for FFXIV.
 [Allagan Studies](https://www.akhmorning.com/allagan-studies/)|Theorycrafting information, formulae and tools for FFXIV.
+[Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|The Final Fantasy XIV Wiki, the comprehensive reference written and maintained by the players.
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
