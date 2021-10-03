@@ -8,7 +8,6 @@ Name|Description
 ---|---
 [AkhMorning](https://www.akhmorning.com)|Guides, news and resources for FFXIV.
 [Allagan Studies](https://www.akhmorning.com/allagan-studies/)|Theorycrafting information, formulae and tools for FFXIV.
-[Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|The Final Fantasy XIV Wiki, the comprehensive reference written and maintained by the players.
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
@@ -29,6 +28,7 @@ Name|Description
 [Characa](https://characa.kkimu.dev/)|Character card generator.
 [Chocobo Color](https://ffxiv.pf-n.co/chocobo-color)|Calculator for changing your chocobo's color.
 [DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
+[Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
 [exdreams Crafting Simulator](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
