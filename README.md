@@ -61,6 +61,7 @@ Name|Description
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Lodestone News](http://na.lodestonenews.com/)|Automatic Lodestone news updates for your Discord server.
 [Lodestone When](https://karashiiro.github.io/lodestone-when/)|Estimate when a FFXIV character was created with just its Lodestone ID.
+[Lost Actions](https://ffxiv.kmiwl.de/bozja/)|Lost actions list and tracker for Bozja and Zadnor.
 [Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
