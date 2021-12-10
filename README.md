@@ -126,6 +126,7 @@ Name|Description
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
 [FFXIV TexTools](https://textools.dualwield.net/)|An application used to modify the textures and models for the game Final Fantasy XIV.
+[MakePlace](https://jawslouis.itch.io/makeplace)|A tool to preview and edit housing layouts outside the game.
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV.
 [TataruHelper](https://github.com/NightlyRevenger/TataruHelper)|Application for translation of in-game texts in Japan MMORPG - Final Fantasy XIV.
 [XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency add-on for Final Fantasy XIV for Windows PC.
