@@ -52,7 +52,7 @@ Name|Description
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
-[ffxiv-weather-bell](https://asvel.github.io/ffxiv-weather-bell/)|(CN) Weather forecast for Final Fantasy XIV.
+[FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|Weather forecast and lookup for Final Fantasy XIV.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
 [High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
