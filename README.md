@@ -56,7 +56,6 @@ Name|Description
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
 [Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
 [High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
-[Horus's FFXIV Hunt Tracker](https://horus-hunts.net/)|A Final Fantasy XIV hunt tracker that aims to provide all the information required for the hunt in one place.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor.
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Lodestone News](http://na.lodestonenews.com/)|Automatic Lodestone news updates for your Discord server.
@@ -107,7 +106,6 @@ Name|Description
 [Machina](https://github.com/ravahn/machina)|Network capture library for realtime TCP/IP decoding from a windows application. Includes an extension library to support FFXIV data capture. (C#)
 [pcap-ffxiv](https://github.com/ffxiv-teamcraft/pcap-ffxiv)|A library for capturing FFXIV game packets in JS/TS.
 [performgen](https://github.com/ff14wed/performgen)|MML -> FFXIV Perform network data compiler. (Golang)
-[SaintCoinach](https://github.com/Rogueadyn/SaintCoinach)|A .NET library written in C# for extracting game assets and reading game assets from Final Fantasy XIV: A Realm Reborn.
 [xivnet](https://github.com/ff14wed/xivnet)|A Golang parser for incoming or outgoing unencrypted FFXIV network traffic.
 [zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream. (Golang)
 
@@ -118,14 +116,13 @@ Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV.
 [BardMusicPlayer](https://bardmusicplayer.com/)|Bard Music Player is an automated music player for playing MIDI songs in FFXIV using the Bard's Performance mode.
-[BurningDownTheHouse](https://github.com/LeonBlade/BurningDownTheHouse)|A tool for FFXIV to manipulate housing items.
 [CMTool](https://github.com/imchillin/CMTool)|Client modding tool.
 [exdreams Desktop Application](https://ffxiv.ap.exdreams.net/)|exdreams desktop application.
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
 [FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
-[FFXIV TexTools](https://textools.dualwield.net/)|An application used to modify the textures and models for the game Final Fantasy XIV.
+[FFXIV TexTools](https://github.com/TexTools/FFXIV_TexTools_UI)|An application used to modify the textures and models for the game Final Fantasy XIV.
 [MakePlace](https://jawslouis.itch.io/makeplace)|A tool to preview and edit housing layouts outside the game.
 [RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV.
 [TataruHelper](https://github.com/NightlyRevenger/TataruHelper)|Application for translation of in-game texts in Japan MMORPG - Final Fantasy XIV.
@@ -143,7 +140,7 @@ Name|Description
 [FFXIVMon Reborn](https://github.com/SapphireServer/ffxivmon)|A FFXIV Network Analysis Tool.
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
 [FFXIV-Packet-Dissector](https://github.com/zhyupe/FFXIV-Packet-Dissector)|Wireshark plugins for dissecting FFXIV packets.
-[Godbert](https://github.com/ufx/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
+[Godbert](https://github.com/xivapi/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
 [Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++.
 
 ## ACT Plugins: Base
@@ -165,7 +162,6 @@ Name|Description
 [ACT.FFXIVTranslate](https://github.com/Noisyfox/ACT.FFXIVTranslate)|Translate players' chatting.
 [ACT.FoxTTS](https://github.com/Noisyfox/ACT.FoxTTS)|Add Chinese TTS (and maybe more) to ACT & TTSYukkuri.
 [ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|FFXIV Advanced Combat Tracker plugin. Includes triggers, TTS, and HUD plugins.
-[Kapture](https://github.com/kalilistic/Kapture)|ACT FFXIV Plugin Loot Tracker.
 [Matcha](https://github.com/thewakingsands/matcha)|Matcha (抹茶) is an ACT plugin that provides notifications for in-game events.
 [OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
 [Paisley Park](https://github.com/LeonBlade/PaisleyPark)|A waymark preset tool for FFXIV.
