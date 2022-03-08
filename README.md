@@ -50,6 +50,7 @@ Name|Description
 [ffxiv-gearing](https://asvel.github.io/ffxiv-gearing/)|(CN) Webapp for building and sharing Final Fantasy XIV gearsets.
 [FFXIV MarketBoard](https://www.ffxivmb.com)|Fansite for crowdsourcing MarketBoard data.
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
+[FFXIV Squadron](http://ffxivsquadron.com/)|A webapp to solve squadron stats for a given mission.
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
 [FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|Weather forecast and lookup for Final Fantasy XIV.
