@@ -191,7 +191,7 @@ Name|Description
 ## Off-the-books Dalamud Plugins
 
 
-The website [neat plugins plus](https://kalilistic.github.io/neat-plugins-plus/) has a list of (probably) every single Dalamud plugin on GitHub, whether or not it is completed or functional. Akurosia has a [more curated list](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories. The list below contains plugins that are known to be completed.
+The website [neat plugins plus](https://kalilistic.io/neat-plugins-plus) has a list of (probably) every single Dalamud plugin and repository on GitHub and a few from other sources. This list is automatically generated so includes plugins and repositories whether or not they are completed or functional. Akurosia has a [more curated list](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories. The list below contains plugins that are known to be completed.
 
 Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
 
