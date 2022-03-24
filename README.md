@@ -74,6 +74,7 @@ Name|Description
 [XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
 [XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
+[xivsim](https://www.xivsim.com/)|FFXIV Raid Simulator.
 [XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
 
 ## Web APIs
