@@ -76,6 +76,7 @@ Name|Description
 [XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
 [xivsim](https://www.xivsim.com/)|FFXIV Raid Simulator.
+[XIV Plugins](https://xivplugins.com/)|Lists of most (all?) Dalamud and ACT plugins.
 [XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
 
 ## Web APIs
@@ -88,12 +89,13 @@ Name|Description
 [FFXIV Collect](https://documenter.getpostman.com/view/1779678/TzXzDHM1)|REST API for collections (e.g. achievements, mounts, minions).
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
 [gcf-lodestone](https://github.com/ffxiv-teamcraft/gcf-lodestone)|A set of example lodestone parsing functions ready to be deployed to GCF
-[Kal's FFXIV API](https://app.swaggerhub.com/apis-docs/kalilistic/ffxiv-api/)|REST API for character lodestone ids and dalamud plugin/repos.
+[Kal's FFXIV API](https://app.swaggerhub.com/apis-docs/kalilistic/ffxiv-api/)|REST API for lodestone ids and more.
 [Lodestone News](https://documenter.getpostman.com/view/1779678/TzXzDHVk)|REST API for Lodestone news.
 [Thaliak](https://thaliak.xiv.dev/)|Game version/patch tracking site offering a REST API.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
 [XIV-Character-Cards](https://github.com/ArcaneDisgea/XIV-Character-Cards)|Character card generator.
+[XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
 
 ## Local APIs
 
@@ -195,7 +197,7 @@ Name|Description
 ## Off-the-books Dalamud Plugins
 
 
-The website [neat plugins plus](https://kalilistic.io/neat-plugins-plus) has a list of (probably) every single Dalamud plugin and repository on GitHub and a few from other sources. This list is automatically generated so includes plugins and repositories whether or not they are completed or functional. Akurosia has a [more curated list](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories. The list below contains plugins that are known to be completed.
+The website [XIV Plugins](https://xivplugins.com) has a list of (probably) every single Dalamud plugin and repository on GitHub and a few from other sources. This list is automatically generated so includes plugins and repositories whether or not they are completed or functional. Akurosia has a [more curated list](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories. The list below contains plugins that are known to be completed.
 
 Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
 
