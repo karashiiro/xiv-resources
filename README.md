@@ -32,6 +32,7 @@ Name|Description
 [Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
+[etro.gg](https://etro.gg/)|A tool for building, sharing and optimizing Final Fantasy XIV gearsets.
 [exdreams Crafting Simulator](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
 [exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
 [exdreams Gatherer Timer](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
