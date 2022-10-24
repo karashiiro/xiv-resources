@@ -203,29 +203,6 @@ The website [XIV Plugins](https://xivplugins.com) has a list of (probably) every
 
 Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
 
-
-Name|Description
----|---
-[BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
-[Cammy](https://github.com/UnknownX7/Cammy)|A simple camera editor to change various game defaults such as zoom and fov.
-[DalamudPython](https://git.sr.ht/~jkcclemens/DalamudPython)|Allows you to use Dalamud via Python in the chat box. Supports one-liners, printing results to chat, or making full scripts over multiple commands.
-[FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window.
-[FFLogsViewer](https://github.com/Aireil/FFLogsViewer)|Small plugin to view FF Logs ranking percentiles in-game.
-[FPSLimiter](https://github.com/maributt/FPSLimiter)|A Dalamud plugin to manage your FPS cap with a command.
-[ffxiv-literal-map-link](https://github.com/Asvel/ffxiv-literal-map-link)|(Only CN tested) Dalamud plugin that turns map coordinates literal into interactable map link when you post messages.
-[ffxiv-startup-commands](https://github.com/saltycog/ffxiv-startup-commands)|Perform various behaviors/commands right after logging into a character.
-[HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)|A plugin used for FFXIVQuickLauncher to offset your character height when using certain high heel mods.
-[HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
-[IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
-[Macrology](https://git.sr.ht/~jkcclemens/Macrology)|Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits.
-[MakePlacePlugin](https://github.com/jawslouis/MakePlacePlugin)|A plugin to automatically save and load housing furniture layouts for FFXIV.
-[MidiBard](https://github.com/akira0245/MidiBard)|Bard performance plugin for FFXIV. 
-[Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
-[SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
-[The Roleplayer's Toolbox](https://git.sr.ht/~jkcclemens/RoleplayersToolbox/)|A collection of useful tools for roleplayers, such as disabling /doze snap, adding emotes to the hotbar, routing to houses, and more.
-[Weatherman](https://github.com/Eternita-S/Weatherman)|Weatherman allows you to take precise control over weather and time flow in FFXIV.
-[YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
-
 ## Other Tools
 
 
