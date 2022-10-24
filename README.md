@@ -13,7 +13,7 @@ Name|Description
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
 [The Balance](https://www.thebalanceffxiv.com/) The Balance provides high-quality job and raid guides for Final Fantasy XIV (FFXIV).
 [Teamcraft Guides](https://guides.ffxivteamcraft.com/)|Crafting and Gathering guides for everyone.
-[XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki.
+[XIV Dev Wiki](https://xiv.dev/)|Reverse-engineering and game internals wiki for FFXIV.
 
 ## Web Applications
 
