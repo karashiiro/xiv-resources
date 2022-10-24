@@ -199,7 +199,7 @@ Name|Description
 ## Off-the-books Dalamud Plugins
 
 
-The website [XIV Plugins](https://xivplugins.com) has a list of (probably) every single Dalamud plugin and repository on GitHub and a few from other sources. This list is automatically generated so includes plugins and repositories whether or not they are completed or functional. Akurosia has a [comprehensive](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories. The list below contains plugins that are known to be completed.
+The website [XIV Plugins](https://xivplugins.com) has a list of (probably) every single Dalamud plugin and repository on GitHub and a few from other sources. This list is automatically generated so includes plugins and repositories whether or not they are completed or functional. Akurosia has a [comprehensive](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories.
 
 Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
 
