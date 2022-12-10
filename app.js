@@ -28,8 +28,11 @@ var app = PetiteVue.createApp({
           // Reshape each resource and push the resulting list back into our state
           var resourceList = resources.split("\n").slice(2).map(function (resource) {
             var matches = resourceRegex.exec(resource);
+            if (matches == null) {
+              return null;
+            }
             return { "name": matches[1], "url": matches[2], "description": matches[3] };
-          });
+          }).filter(function(resource) { return resource != null; });
 
           self.resources.push({ "name": name, "description": description, "resources": resourceList });
         }
