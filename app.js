@@ -15,18 +15,16 @@ var app = PetiteVue.createApp({
           var category = categories[i];
 
           var categoryData = category.trim().split("\n\n\n");
-          console.log(categoryData);
           var name = categoryData[0];
 
-          if (categoryData.length === 3) {
+          if (!categoryData[1].includes('---|---')) {
             var description = categoryData[1].replace(/\n/g, "<br>");
-            var resources = categoryData[2];
-          } else {
-            var description = "";
-            var resources = categoryData[1];
+            self.resources.push({ "name": name, "description": description, "resources": [] });
+            continue;
           }
 
           // Reshape each resource and push the resulting list back into our state
+          var resources = categoryData[1];
           var resourceList = resources.split("\n").slice(2).map(function (resource) {
             var matches = resourceRegex.exec(resource);
             if (matches == null) {
