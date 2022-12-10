@@ -17,8 +17,9 @@ var app = PetiteVue.createApp({
           var categoryData = category.trim().split("\n\n\n");
           var name = categoryData[0];
 
+          var description = "";
           if (!categoryData[1].includes('---|---')) {
-            var description = categoryData[1].replace(/\n/g, "<br>");
+            description = categoryData[1].replace(/\n/g, "<br>");
             self.resources.push({ "name": name, "description": description, "resources": [] });
             continue;
           }
