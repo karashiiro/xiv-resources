@@ -196,6 +196,17 @@ Name|Description
 [kagerou](https://github.com/hibiyasleep/kagerou)|ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date.
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay.
 
+## Dalamud Plugins: Libraries
+
+
+Name|Description
+---|---
+[CriticalCommonLib](https://github.com/Critical-Impact/CriticalCommonLib)|Common utilities including inventory support.
+[Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities including loc and extension methods.
+[Dalamud.Loc](https://github.com/kalilistic/Dalamud.Loc)|Localization for plugin translations.
+[OtterGui](https://github.com/Ottermandias/OtterGui)|Tooling for working with ImGui.
+[XivCommon](https://git.anna.lgbt/ascclemens/XivCommon)|Library to interact with several game functions.
+
 ## Dalamud Plugins: Off-the-books
 
 
