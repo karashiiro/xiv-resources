@@ -15,6 +15,7 @@ var app = PetiteVue.createApp({
           var category = categories[i];
 
           var categoryData = category.trim().split("\n\n\n");
+          console.log(categoryData);
           var name = categoryData[0];
 
           if (categoryData.length === 3) {
