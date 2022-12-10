@@ -201,11 +201,14 @@ Name|Description
 
 Name|Description
 ---|---
-[CriticalCommonLib](https://github.com/Critical-Impact/CriticalCommonLib)|Common utilities including inventory support.
-[Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities including loc and extension methods.
+[CriticalCommonLib](https://github.com/Critical-Impact/CriticalCommonLib)|Common utilities and helper functions.
+[Dalamud.ContextMenu](https://github.com/kalilistic/Dalamud.ContextMenu)|Library to use game context menus.
+[Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities and helper functions.
 [Dalamud.Loc](https://github.com/kalilistic/Dalamud.Loc)|Localization for plugin translations.
+[ECommons](https://github.com/NightmareXIV/ECommons)|Common utilities and helper functions.
 [OtterGui](https://github.com/Ottermandias/OtterGui)|Tooling for working with ImGui.
-[XivCommon](https://git.anna.lgbt/ascclemens/XivCommon)|Library to interact with several game functions.
+[Pilz.Dalamud](https://github.com/Pilzinsel64/Pilz.Dalamud)|Common utilities and helper functions.
+[XivCommon](https://git.anna.lgbt/ascclemens/XivCommon)|Common utilities and helper functions.
 
 ## Dalamud Plugins: Off-the-books
 
