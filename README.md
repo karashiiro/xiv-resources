@@ -201,6 +201,7 @@ Name|Description
 
 Name|Description
 ---|---
+[ClickLib](https://github.com/daemitus/ClickLib)|Programmatic button clicking.
 [CriticalCommonLib](https://github.com/Critical-Impact/CriticalCommonLib)|Common utilities and helper functions.
 [Dalamud.ContextMenu](https://github.com/kalilistic/Dalamud.ContextMenu)|Library to use game context menus.
 [Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities and helper functions.
