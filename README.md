@@ -207,6 +207,7 @@ Name|Description
 [Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities and helper functions.
 [Dalamud.Loc](https://github.com/kalilistic/Dalamud.Loc)|Localization for plugin translations.
 [ECommons](https://github.com/NightmareXIV/ECommons)|Common utilities and helper functions.
+[KamiLib](https://github.com/MidoriKami/KamiLib)|Common utilities and helper functions.
 [OtterGui](https://github.com/Ottermandias/OtterGui)|Tooling for working with ImGui.
 [Pilz.Dalamud](https://github.com/Pilzinsel64/Pilz.Dalamud)|Common utilities and helper functions.
 [XivCommon](https://git.anna.lgbt/ascclemens/XivCommon)|Common utilities and helper functions.
