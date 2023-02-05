@@ -125,6 +125,7 @@ Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV.
 [BardMusicPlayer](https://bardmusicplayer.com/)|Bard Music Player is an automated music player for playing MIDI songs in FFXIV using the Bard's Performance mode.
+[Chromatics](https://github.com/roxaskeyheart/Chromatics)|RGB lighting effects for FFXIV.
 [CMTool](https://github.com/imchillin/CMTool)|Client modding tool.
 [exdreams Desktop Application](https://ffxiv.ap.exdreams.net/)|exdreams desktop application.
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
