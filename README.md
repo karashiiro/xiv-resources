@@ -79,6 +79,7 @@ Name|Description
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
 [xivsim](https://www.xivsim.com/)|FFXIV Raid Simulator.
 [XIV Plugins](https://xivplugins.com/)|Lists of most (all?) Dalamud and ACT plugins.
+[XIV Recruit](https://www.xivrecruit.com/)|Search for a static or recruit members for your static that match your recruitment criteria (schedule, focus, mindset, etc.), including member management and more!
 [XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
 
 ## Web APIs
