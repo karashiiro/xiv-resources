@@ -11,8 +11,9 @@ Name|Description
 [FFXIV Community Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)|The Final Fantasy XIV Wiki, the comprehensive reference written and maintained by the players.
 [Gamer Escape](https://ffxiv.gamerescape.com/wiki/Main_Page)|Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts.
 [SaltedXIV](https://saltedxiv.com/)|Guides and assorted resources for FFXIV.
-[The Balance](https://www.thebalanceffxiv.com/)|The Balance provides high-quality job and raid guides for Final Fantasy XIV (FFXIV).
 [Teamcraft Guides](https://guides.ffxivteamcraft.com/)|Crafting and Gathering guides for everyone.
+[The Balance](https://www.thebalanceffxiv.com/)|The Balance provides high-quality job and raid guides for Final Fantasy XIV (FFXIV).
+[The PF Strat](https://www.thepfstrat.com/)|Collection of resources and strats most commonly used in FFXIV Party Finder for Savage, Ultimate, EX fights, etc.
 [XIV Dev Wiki](https://xiv.dev/)|Reverse-engineering and game internals wiki for FFXIV.
 
 ## Web Applications
