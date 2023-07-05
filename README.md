@@ -15,6 +15,7 @@ Name|Description
 [The Balance](https://www.thebalanceffxiv.com/)|The Balance provides high-quality job and raid guides for Final Fantasy XIV (FFXIV).
 [The PF Strat](https://www.thepfstrat.com/)|Collection of resources and strats most commonly used in FFXIV Party Finder for Savage, Ultimate, EX fights, etc.
 [XIV Dev Wiki](https://xiv.dev/)|Reverse-engineering and game internals wiki for FFXIV.
+[XIVDirectory](https://discord.gg/NDTNpMPBeS)|An easily navigable and consistently updated directory of active resources that are committed to improving the XIV community.
 
 ## Web Applications
 
