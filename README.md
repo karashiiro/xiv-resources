@@ -23,7 +23,6 @@ Name|Description
 Name|Description
 ---|---
 [A Realm Remapped](https://arealmremapped.com/)|Collection of all maps and locations in FINAL FANTASY XIV including FATEs, Treasure maps, Vistas, Aether Currents and more.
-[Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [Bozjan Southern Front](https://ffxiv.pf-n.co/bozja)|Interactive map for the Bozjan Southern Front.
 [Cactpot.xyz](http://cactpot.xyz/)|Mobile friendly Final Fantasy XIV Mini-Cactpot perfect solver. Maximize your cactpot winnings.
@@ -89,7 +88,6 @@ Name|Description
 
 Name|Description
 ---|---
-[Another Triple Triad Tracker](https://documenter.getpostman.com/view/1779678/TzXzDHRR)|REST API for Triple Triad.
 [CafeMaker](https://github.com/thewakingsands/cafemaker)|A XIVAPI fork optimized for CN client data and Chinese players.
 [FFXIV Collect](https://documenter.getpostman.com/view/1779678/TzXzDHM1)|REST API for collections (e.g. achievements, mounts, minions).
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
