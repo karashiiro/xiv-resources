@@ -68,6 +68,7 @@ Name|Description
 [Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
+[Raphael XIV](https://www.raphael-xiv.com/)|Crafting rotation solver / macro generator.
 [Skywatcher](https://ffxiv.pf-n.co/skywatcher)|Schedule for weather in Eorzea and forecaster for upcoming weather patterns.
 [Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|Strat maker for FFXIV.
 [Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
