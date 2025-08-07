@@ -30,6 +30,7 @@ Name|Description
 [Characa](https://characa.kkimu.dev/)|Character card generator.
 [Chocobo Color](https://ffxiv.pf-n.co/chocobo-color)|Calculator for changing your chocobo's color.
 [DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
+[DDCompendium](https://www.ddcompendium.com/)|Deep dungeon knowledge base.
 [Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
@@ -48,9 +49,11 @@ Name|Description
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
 [FF Logs](https://www.fflogs.com/)|Combat analysis website.
 [FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
+[FFXIV Character Name Availability](https://gitpaulo.github.io/FFXIV-Character-Name-Availability/)|Look up character name availability across all data centers.
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
 [FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
 [ffxiv-gearing](https://asvel.github.io/ffxiv-gearing/)|(CN) Webapp for building and sharing Final Fantasy XIV gearsets.
+[FFXIV Journey Tracker](https://gitpaulo.github.io/FFXIV-Journey/)|Keep track, search and share your completed MSQ quest list.
 [FFXIV MarketBoard](https://www.ffxivmb.com)|Fansite for crowdsourcing MarketBoard data.
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
 [FFXIV Squadron](http://ffxivsquadron.com/)|A webapp to solve squadron stats for a given mission.
