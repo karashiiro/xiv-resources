@@ -77,6 +77,7 @@ Name|Description
 [Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|Calculator for the Wondrous Tails mini-game.
+[XIV Arbitrage](https://xivarbitrage.projects.blueskye.co.uk/)|Cross-DC market board arbitrage finder. Scans ~10,000 items across NA, EU, and OCE to find price disparities and bargains.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
 [XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
 [xivLeve](https://xivleve.org/)|Every hour new easy FFXIV leves! The easiest to buy items from the market board to maximize profit doing levequests.
@@ -100,6 +101,7 @@ Name|Description
 [Lodestone News](https://documenter.getpostman.com/view/1779678/TzXzDHVk)|REST API for Lodestone news.
 [Thaliak](https://thaliak.xiv.dev/)|Game version/patch tracking site offering a GraphQL API.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
+[XIV Arbitrage API](https://xivarbitrage.projects.blueskye.co.uk/api/dc-disparities)|Public REST API for DC price disparities and market bargains. Includes item sale history and discounted listings, with usage monitoring.
 [XIVAPI](https://xivapi.com/)|Game data API.
 [XIV-Character-Cards](https://github.com/ArcaneDisgea/XIV-Character-Cards)|Character card generator.
 [XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
