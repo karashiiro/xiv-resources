@@ -225,6 +225,11 @@ The website [XIV Plugins](https://xivplugins.com) has a list of (probably) every
 
 Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
 
+Name|Description
+---|---
+[Kupo Skribbl](https://github.com/cloudesh/kupopop)|An in-game drawing and guessing party game for 2–16 players, with drawn portraits, room codes and friend invitations.
+
+
 ## Other Tools
 
 
